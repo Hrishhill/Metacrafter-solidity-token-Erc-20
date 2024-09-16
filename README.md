@@ -56,4 +56,5 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to modify the content as needed for your repository.
+## VIDEO EXPLANATION :
+https://drive.google.com/file/u/0/d/1PdQZ-GzDsY0ijN0mahH_AurERyBZ14Fm/view?usp=sharing&pli=1
