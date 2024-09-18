@@ -91,8 +91,4 @@ function burn(uint256 amount) public {
 
 The **FanToken** contract provides a solid foundation for token management on the Avalanche blockchain. By leveraging OpenZeppelin’s **ERC20** and **Ownable** contracts, it ensures a secure, standard-compliant implementation of essential token functionalities, including minting, transferring, and burning.
 
-For further details, please refer to the Solidity documentation and OpenZeppelin contracts.
 
----
-
-Feel free to adjust any details as needed!
